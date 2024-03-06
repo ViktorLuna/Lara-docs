@@ -170,6 +170,8 @@ Migrated:  2024_03_06_012858_create_car_tables_table (49.13ms)
 php artisan migrate:rollback
 ```
 
+<img src="https://cdn.dribbble.com/users/24711/screenshots/3886002/falcon_persistent_connection_2x.gif" width="400">
+
 ## Database - Add data
 
 ### go to your PhpMyAdmin and Run the following inside `car_system` database:
